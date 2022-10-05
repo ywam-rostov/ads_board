@@ -134,5 +134,6 @@
 
  /* main_css */
 
-.page.bg-image {
+#lg-share {
+  display: none !important;
 }
