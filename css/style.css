@@ -137,7 +137,7 @@
 #lg-share {
   display: none !important;
 }
-@media screen and (min-width: 400px) and (max-width: 700px) {
+@media screen and (max-width: 700px) {
 .tabs-horizontal.tabs-gallery .nav-item {
   min-width: 100% !important;
 }
