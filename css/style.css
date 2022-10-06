@@ -157,3 +157,11 @@
 a.gallery-item {
   display: block !important;
 }
+
+
+/* стили для заголовков карточек на главной странице */
+@media screen and (min-width: 1200px) {
+  .main_span {
+    font-size: 18px !important;
+  }
+}
