@@ -633,6 +633,12 @@
 		}
 
 
+		lightGallery(document.getElementById('gallery-wrap'), {
+		    speed: 500,
+		    mode: 'lg-fade',
+				closeOnTap: true,
+
+		});
 
 
 	});
